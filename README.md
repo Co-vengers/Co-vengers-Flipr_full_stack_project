@@ -2,7 +2,7 @@
 
 A dynamic, full-stack portfolio website built for the **Flipr Placement Task**. This application features a public-facing landing page for showcasing projects and clients, and a secure admin dashboard for content management.
 
-![Project Banner](./screenshots/banner.png)
+![Project Banner](./screenshots/Banner.png)
 
 ## 🌟 Features
 
